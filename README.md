@@ -7,9 +7,16 @@
 <p h2 align="center">
 
 Greetings, I'm Kasra.  
-I am a senior undergraduate student at the Sharif University of Technology. I am working as a research assistant in the MCI lab that belongs to Hamrahe Aval, Iran's first and biggest cellular communication provider. I am seeking a graduate position for the following fall.  
+I am a senior undergraduate student at the Sharif University of Technology. I am working as a research assistant in the MCI lab that belongs to Hamrahe Aval, Iran's first and biggest cellular communication provider.I’m currently learning phased arrays and the related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
 
-  
+
+
+
+You can always reach me in two ways:
+
+1. My personal email: kasra.stud@gmail.com
+2. My working email: kasra.fallah@sharif.edu
+3. Only during working hours at MCI lab, Sharif University of Technology, Tehran, Iran. ( It is preferable to contact me before meeting)
  <br />
 <p align="center">
   <h1 align="center"> Skills </h1>
