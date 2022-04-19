@@ -12,7 +12,7 @@ I am a senior undergraduate student at the Sharif University of Technology. I am
 
 
 
-You can always reach me in two ways:
+You can always reach me in three ways:
 
 1. My personal email: kasra.stud@gmail.com
 2. My working email: kasra.fallah@sharif.edu
