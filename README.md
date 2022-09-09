@@ -15,8 +15,8 @@ I am a senior undergraduate student at the Sharif University of Technology. I am
 You can always reach me in three ways:
 
 1. My personal email: kasra.stud@gmail.com
-2. My working email: kasra.fallah@sharif.edu
-3. Only during working hours at MCI lab, Sharif University of Technology, Tehran, Iran. ( It is preferable to contact me before meeting)
+2. My working email: k2fallah@uwaterloo.ca
+3. Only during working hours at EIT 4139, University of Waterloo, Waterloo, Ontario, Canada. ( It is preferable to contact me before meeting)
  <br />
 <p align="center">
   <h1 align="center"> Skills </h1>
