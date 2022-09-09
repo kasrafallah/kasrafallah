@@ -16,7 +16,7 @@ You can always reach me in three ways:
 
 1. My personal email: kasra.stud@gmail.com
 2. My working email: k2fallah@uwaterloo.ca
-3. Only during working hours at EIT 4139, University of Waterloo, Waterloo, Ontario, Canada. ( It is preferable to contact me before meeting)
+3. My office at EIT 4139, University of Waterloo, Waterloo, Ontario, Canada. ( It is preferable to contact me before meeting)
  <br />
 <p align="center">
   <h1 align="center"> Skills </h1>
