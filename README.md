@@ -7,7 +7,7 @@
 <p h2 align="center">
 
 Greetings, I'm Kasra.  
-I am a graduate student at University of Waterloo. I am working as a research assistant at University of Waterloo ECE department under supevisiotion of Professor Ravi Mazumdar.I’m currently learning phased arrays and the related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
+I am a graduate student at the University of Waterloo. I am working as a research assistant at the University of Waterloo ECE department under the supevisiotion of Professor Ravi Mazumdar. I’m currently learning phased arrays and related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
 
 
 
