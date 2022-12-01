@@ -7,7 +7,7 @@
 <p h2 align="center">
 
 Greetings, I'm Kasra.  
-I am a senior undergraduate student at the Sharif University of Technology. I am working as a research assistant in the MCI lab that belongs to Hamrahe Aval, Iran's first and biggest cellular communication provider.I’m currently learning phased arrays and the related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
+I am a graduate student at University of Waterloo. I am working as a research assistant at University of Waterloo ECE department under supevisiotion of Professor Ravi Mazumdar.I’m currently learning phased arrays and the related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
 
 
 
