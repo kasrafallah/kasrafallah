@@ -6,8 +6,8 @@
   <h1 align="center"> Bio </h1>
 <p h2 align="center">
 
-Greetings, I'm Kasra.  
-I am a graduate student at the University of Waterloo. I am working as a research assistant at the University of Waterloo ECE department under the supevisiotion of Professor Ravi Mazumdar. I’m currently learning phased arrays and related communication systems. I also focus on learning various facets of the MIMO Problem in wireless high-frequency transmission.
+Greetings, I'm Kasra, 
+A graduate student at the University of Waterloo. Currently, I am serving as a research assistant in the Electrical and Computer Engineering (ECE) department under the esteemed supervision of Professor Ravi Mazumdar. My research primarily focuses on stochastic differential equations, stochastic calculus, and applied probability, with specific applications in communication systems. I anticipate completing my studies and graduating in May of the following year.
 
 
 
