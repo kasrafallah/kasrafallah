@@ -7,7 +7,7 @@
 <p h2 align="center">
 
 Greetings, I'm Kasra, 
-A graduate student at the University of Waterloo. Currently, I am serving as a research assistant in the Electrical and Computer Engineering (ECE) department under the esteemed supervision of Professor Ravi Mazumdar. My research primarily focuses on stochastic differential equations, stochastic calculus, and applied probability, with specific applications in communication systems. I anticipate completing my studies and graduating in May of the following year.
+A graduate student at the University of Waterloo. Currently, I am serving as a research assistant in the Electrical and Computer Engineering (ECE) department under the esteemed supervision of Professor [Ravi Mazumdar]([https://www.example.com](https://ece.uwaterloo.ca/~mazum/)). My research primarily focuses on stochastic differential equations, stochastic calculus, and applied probability, with specific applications in communication systems. I anticipate completing my studies and graduating in May of the following year.
 
 
 
