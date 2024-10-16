@@ -7,7 +7,9 @@
 <p h2 align="center">
 
 Greetings, I'm Kasra, 
-A graduate student at the University of Waterloo. Currently, I am serving as a research assistant in the Electrical and Computer Engineering (ECE) department under the esteemed supervision of Professor [Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/). My research primarily focuses on stochastic differential equations, stochastic calculus, and applied probability, with specific applications in communication systems. I anticipate completing my studies and graduating in May of the following year.
+A PhD candidate at the Columbia University. Currently, I am serving as a research assistant in the Electrical Engineering department under the esteemed supervision of Professor [James Anderson](https://www.columbia.edu/~ja3451/). I got my MASc at the University of Waterloo under the supervision of Professor [Ravi Mazumdar](https://ece.uwaterloo.ca/~mazum/) My research primarily focuses on stochastic differential equations, stochastic calculus, and applied probability, with specific applications in control systems.
+you can find my latest publications in my [Google Scholar](https://scholar.google.com/citations?hl=en&user=3yPgWtQAAAAJ)
+
 
 
 
@@ -15,8 +17,8 @@ A graduate student at the University of Waterloo. Currently, I am serving as a r
 You can always reach me in three ways:
 
 1. My personal email: kasra.stud@gmail.com
-2. My working email: k2fallah@uwaterloo.ca
-3. My office at EIT 4139, University of Waterloo, Waterloo, Ontario, Canada.
+2. My working email: kf2779@columbia.edu
+3. My office is at Cepsr 709, Columbia University, Manhattan, New York City, USA.
  <br />
 <p align="center">
   <h1 align="center"> Skills </h1>
